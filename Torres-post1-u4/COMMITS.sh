@@ -1,9 +1,4 @@
-# INSTRUCCIONES PARA SUBIR A GITHUB
-# Cambia "apellido" por tu apellido real antes de ejecutar.
-# Ejecuta estos comandos en la terminal del sistema operativo (NO en DOSBox).
 
-# ── 1. Inicializar repo y renombrar carpeta ──────────────────────────────────
-# (Opcional si ya clonaste el repo vacío desde GitHub)
 git init
 git branch -M main
 
