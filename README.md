@@ -1,4 +1,4 @@
-# apellido-post1-u4
+# Torres-post1-u4
 
 ## Descripción
 
@@ -27,7 +27,7 @@ Este proyecto demuestra la estructura básica de un programa ensamblador NASM de
 ### Estructura de archivos en la carpeta de trabajo (host)
 
 ```
-apellido-post1-u4\
+Torres-post1-u4\
 ├── nasm.exe          ← ejecutable de NASM
 ├── alink.exe         ← ejecutable de ALINK
 ├── programa.asm      ← código fuente (este repositorio)
